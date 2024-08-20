@@ -22,13 +22,13 @@ This repository is used for tracking issues related to the CAP Composer tool. Wh
 
 ### 1. Search for Existing Issues
 
-Before creating a new issue, please check if your issue has already been reported by searching the [Issues](https://github.com/CAP-Issue-Tracker/issues) tab. This helps in reducing duplicates and ensures that all relevant discussions are centralized.
+Before creating a new issue, please check if your issue has already been reported by searching the [Issues](https://github.com/wmo-raf/CAP-Issue-Tracker/issues) tab. This helps in reducing duplicates and ensures that all relevant discussions are centralized.
 
 ### 2. Create a New Issue
 
 If your issue is not already listed, you can create a new one by following these steps:
 
-1. **Go to the Issues Tab**: Navigate to the [Issues](https://github.com/CAP-Issue-Tracker/issues) tab of this repository.
+1. **Go to the Issues Tab**: Navigate to the [Issues](https://github.com/wmo-raf/CAP-Issue-Tracker/issues) tab of this repository.
 2. **Click on "New Issue"**: Click on the "New Issue" button to create a new issue.
 3. **Select the Appropriate Issue Template**: Choose the most relevant issue template from the list provided. Each template is tailored for different types of issues such as bugs, feature requests, or general questions.
 4. **Fill Out the Issue Form**: Provide a clear and descriptive title for your issue. Fill out the form with all the relevant information, such as:
@@ -61,11 +61,8 @@ Once your issue is submitted, our team will review it and may ask for additional
 
 ## Code of Conduct
 
-We aim to foster a positive and respectful community. By participating in this repository, you agree to abide by our [Code of Conduct](link-to-code-of-conduct).
+We aim to foster a positive and respectful community. By participating in this repository, you agree to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-## Contact Us
-
-If you have any questions or need further assistance, feel free to contact us at [support@example.com](mailto:support@example.com) or join our [community forum](link-to-community-forum).
 
 ---
 
