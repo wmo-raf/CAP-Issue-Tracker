@@ -44,7 +44,6 @@ If your issue is not already listed, you can create a new one by following these
 We have provided different issue templates to streamline the process of reporting issues. Please choose the template that best fits your scenario:
 
 - **Bug Report**: For reporting bugs or unexpected behavior.
-- **Feature Request**: For suggesting new features or improvements.
 - **Question**: For general inquiries or discussions.
 - **Other**: For issues that don’t fit the above categories.
 
@@ -53,9 +52,7 @@ We have provided different issue templates to streamline the process of reportin
 After submitting your issue, the maintainers will review it and may apply labels to categorize it. These labels help in prioritizing and managing the issues effectively. Common labels include:
 
 - `bug`
-- `enhancement`
 - `question`
-- `documentation`
 - `help wanted`
 
 ## Communication and Updates
